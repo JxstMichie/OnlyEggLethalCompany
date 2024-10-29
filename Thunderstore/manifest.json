@@ -1,0 +1,9 @@
+{
+    "name": "OnlyEggs",
+    "version_number": "1.0.2",
+    "website_url":  "",
+    "description": "By deault the mod adds a Eggsplosive day to make your experience more explosive\nThe mod is highly conifgurable! You can change the item and odds\nOnly Host needs the Mod",
+    "dependencies": [
+      "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
